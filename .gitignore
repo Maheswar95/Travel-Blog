@@ -1,0 +1,9 @@
+# Ignoring .idea file #
+
+*/.idea/*
+.idea/*
+
+# Ignoring __pycache__ file #
+
+*/__pycache__/*
+__pycache__/*
